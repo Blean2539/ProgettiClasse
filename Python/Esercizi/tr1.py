@@ -29,7 +29,7 @@ Lavatrice4 = Lavatrice("l4")
 Lavanderia.append(Lavatrice1)
 Lavanderia.append(Lavatrice2)
 Lavanderia.append(Lavatrice3)
-Lavatrice.append(Lavatrice4)
+Lavanderia.append(Lavatrice4)
 
 
 Avvia_Lavatrici(Lavanderia)
